@@ -12,14 +12,4 @@ Hi there! I'm a fifth-year PhD student at Stanford University, where I'm advised
 
 My research interests include sequential learning and decision-making, stochastic simulation, and statistical inference for stochastic processes.
 
----
-permalink: /
-title: "Papers"
-excerpt: "Papers"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 
