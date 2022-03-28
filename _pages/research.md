@@ -31,7 +31,7 @@ Learning in High-dimensional Linear Contextual Bandits. With Peter Glynn and Zhe
 
 From a Previous Life
 ======
-Sensory-Motor Systems of Copepods Involved in Their Escape from Suction Feeding. [Integrative and Comparitive Biology, 2015, Vol. 55 Is. 1](https://academic.oup.com/icb/article/55/1/121/617941). With Jeannette Yen, David Murphy, Donald Webster.
+Sensory-Motor Systems of Copepods Involved in Their Escape from Suction Feeding. [Integrative and Comparative Biology, 2015, Vol. 55 Is. 1](https://academic.oup.com/icb/article/55/1/121/617941). With Jeannette Yen, David Murphy, Donald Webster.
 
 A Remote Stereochemical Lever Arm Effect in Polymer Mechanochemistry. [Journal of the American Chemical Society, 2014, Vol. 136. No. 43](https://pubs.acs.org/doi/abs/10.1021/ja509585g). With Junpeng Wang, Tatiana Kouznetsova, Zachary Kean, Brendan Mar, Todd Martínez and Stephen Craig.
 
