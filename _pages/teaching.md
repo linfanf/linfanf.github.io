@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Graduate Teaching Assistant at Stanford University"
+title: "Graduate Teaching Assistant at Stanford"
 permalink: /teaching/
 author_profile: true
 ---
