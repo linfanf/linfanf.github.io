@@ -12,6 +12,6 @@ Hi there! I'm a fifth-year PhD student at Stanford University, where I'm advised
 
 My research interests include sequential learning and decision-making, stochastic simulation, and statistical inference for stochastic processes.
 
-Contact: linfan [at] stanford.edu
+Contact: linfan [at] stanford [dot] edu
 
 
