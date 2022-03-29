@@ -17,7 +17,7 @@ Central Limit Theorems for Estimated Functions at Estimated Points. [Operations 
 
 Change-point Testing for Risk Measures in Time Series. [Preprint](https://arxiv.org/abs/1809.02303). With Peter Glynn and Markus Pelger.
 
-Work in Progress
+Works in Progress
 ======
 Approximations for Bernoulli Bandits. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
