@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Papers"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
+Papers
+======
 The Fragility of Optimized Bandit Algorithms. [Preprint](https://arxiv.org/abs/2109.13595). With Peter Glynn
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
