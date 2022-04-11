@@ -13,6 +13,8 @@ Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs
 
 Nonparametric Estimation of Markov Chain Expectations. _In Preparation_. With Peter Glynn and Markus Pelger.
 
+Sub-sampled Estimation of Markov Chain Expectations. _In Preparation_. With Peter Glynn.
+
 The Typical Behavior of Bandit Algorithms. _In Preparation_. With Peter Glynn.
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
@@ -22,8 +24,6 @@ Change-point Testing for Risk Measures in Time Series. [Preprint](https://arxiv.
 Works in Progress
 ======
 Approximations for Bernoulli Bandits. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
-
-Plug-in Estimation of Markov Chain Expectations. With Peter Glynn.
 
 Efficient Estimation of Markov Chain Expecations. With Peter Glynn.
 
