@@ -15,7 +15,7 @@ Nonparametric Estimation of Markov Chain Expectations. _In Preparation_. With Pe
 
 The Typical Behavior of Bandit Algorithms. _In Preparation_. With Peter Glynn.
 
-Approximations for Bernoulli Bandits. _In Preparation_ With Wenjia Ba, Peter Glynn and J. Michael Harrison.
+Approximations for Bernoulli Bandits. _In Preparation_. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
@@ -28,8 +28,6 @@ Sub-sampled Estimation of Markov Chain Expectations. With Peter Glynn and Markus
 Efficient Estimation of Markov Chain Expecations. With Peter Glynn.
 
 Gradient Estimation for Stochastic Networks. With Peter Glynn.
-
-Learning in High-dimensional Linear Contextual Bandits. With Peter Glynn and Zhengyuan Zhou.
 
 From a Previous Life
 ======
