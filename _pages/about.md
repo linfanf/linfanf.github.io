@@ -18,6 +18,7 @@ My research interests include:
 - Statistical inference for stochastic processes
   - with applications to service operations and econometrics
 - Stochastic simulation    
+  - input uncertainty quantification, gradient estimation
        
 &nbsp;   
 **I am on the 2022-23 academic job market.**   
