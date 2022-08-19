@@ -20,7 +20,7 @@ My research interests include:
 - stochastic simulation
 <br />
 **I will be on the 2022-23 academic job market**
-<br />    
+ 
 Contact: linfan [at] stanford [dot] edu
 
 
