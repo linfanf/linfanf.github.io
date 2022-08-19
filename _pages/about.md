@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi there! I'm a fifth-year PhD student at Stanford University, where I'm advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of the [Operations Research](https://or.stanford.edu/) group within [Management Science and Engineering](https://msande.stanford.edu/).
+Hi! I'm a final-year PhD student at Stanford University, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of the [Operations Research](https://or.stanford.edu/) group within [Management Science and Engineering](https://msande.stanford.edu/).
 
 My research interests include sequential learning and decision-making, stochastic simulation, and statistical inference for stochastic processes.
 
