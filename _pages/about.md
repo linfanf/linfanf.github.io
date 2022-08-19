@@ -17,7 +17,8 @@ My research interests include:
   - especially applied to sequential learning and decision-making problems
 - Statistical inference for stochastic processes
   - with applications to service operations and econometrics
-- Stochastic simulation           
+- Stochastic simulation    
+       
 &nbsp;  
 **I am on the 2022-23 academic job market.**    
   
