@@ -20,8 +20,7 @@ My research interests include:
 - Stochastic simulation    
   - input uncertainty quantification, gradient estimation
        
-&nbsp;  
-&nbsp;  
+&nbsp;   
 **I am on the 2022-23 academic job market.**   
   
 Contact: linfan [at] stanford [dot] edu
