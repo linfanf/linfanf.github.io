@@ -16,8 +16,8 @@ My research interests include:
 - Applied probability
   - especially applied to sequential learning and decision-making problems
 - Statistical inference for stochastic processes
-  - with applications to service operations and econometrics
-- Stochastic simulation    
+  - with applications to service operations and econometric time series
+- Stochastic simulation
   - input uncertainty quantification, gradient estimation
        
 &nbsp;   
