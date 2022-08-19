@@ -18,11 +18,9 @@ My research interests include:
 - Statistical inference for stochastic processes
   - with applications to service operations and econometrics
 - Stochastic simulation
-&nbsp;
-&nbsp;
+#    
 **I am on the 2022-23 academic job market.**    
-&nbsp;
-&nbsp;
+
 Contact: linfan [at] stanford [dot] edu
 
 
