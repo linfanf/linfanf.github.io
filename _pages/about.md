@@ -19,7 +19,9 @@ My research interests include:
   - with applications to service operations and econometrics
 - stochastic simulation
 
+
 **I will be on the 2022-23 academic job market**
+
 
 Contact: linfan [at] stanford [dot] edu
 
