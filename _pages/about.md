@@ -12,7 +12,7 @@ About Me
 ======
 Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of Stanford's [Operations Research](https://or.stanford.edu/) group.
   
-<p>My research interests include:<p>
+My research interests include:<p>
 - applied probability
     - especially applied to sequential learning and decision-making problems
 - statistical inference for stochastic processes
