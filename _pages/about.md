@@ -14,8 +14,10 @@ Hi! I am a final-year PhD student at Stanford, where I am very fortunate to be a
 
 My research interests include:
 
-- applied probability, especially applied to sequential learning and decision-making problems
-- statistical inference for stochastic processes, with applications to service operations and econometrics
+- applied probability
+    - especially applied to sequential learning and decision-making problems
+- statistical inference for stochastic processes
+    - with applications to service operations and econometrics
 - stochastic simulation
 
 **I will be on the 2022-23 academic job market**
