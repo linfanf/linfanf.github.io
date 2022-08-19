@@ -22,5 +22,7 @@ My research interests include:
 &nbsp;  
 **I am on the 2022-23 academic job market.**    
 
+Contact: linfan [at] stanford [dot] edu
+
 
 
