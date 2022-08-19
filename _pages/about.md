@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Hi! I am a final-year PhD student at Stanford, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am part of the [Operations Research](https://or.stanford.edu/) group within [Management Science and Engineering](https://msande.stanford.edu/).
+Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of the Stanford [Operations Research](https://or.stanford.edu/) group.
 
 My research interests include:
 
