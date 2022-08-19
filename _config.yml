@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lin Fan"
   avatar           : "pp.jpg"
-  bio              : "linfan [at] stanford [dot] edu" #"PhD Candidate at Stanford University"
-  location         : #"Palo Alto, CA"
+  bio              : "PhD Student in MS&E at Stanford University"
+  location         : #"Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"linfan [at] stanford [dot] edu"
+  email            : "linfan@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
