@@ -12,7 +12,8 @@ About Me
 ======
 Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of Stanford's [Operations Research](https://or.stanford.edu/) group.
     
-My research interests include:
+Research Interests
+======
 - Applied probability
   - especially applied to sequential learning and decision-making problems
 - Statistical inference for stochastic processes
@@ -24,7 +25,9 @@ For more information, please visit my [research page](https://linfanf.github.io/
      
 **I am on the 2022-23 academic job market.**   
   
-Contact: linfan [at] stanford [dot] edu
+Contact
+======
+Email: linfan [at] stanford.edu
 
 
 
