@@ -23,7 +23,7 @@ Change-point Testing for Risk Measures in Time Series. [Preprint](https://arxiv.
 
 Works in Progress
 ======
-Sub-sampled Estimation of Markov Chain Expectations. With Peter Glynn and Markus Pelger.
+Subsampling Estimation of Markov Chain Expectations. With Peter Glynn and Markus Pelger.
 
 Efficient Parametric Estimation of Markov Chain Expecations. With Peter Glynn.
 
