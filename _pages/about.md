@@ -21,8 +21,7 @@ My research interests include:
   - input uncertainty quantification, gradient estimation
 
 For more information, please visit my [research page](https://linfanf.github.io/research/). Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf).
-       
-&nbsp;   
+     
 **I am on the 2022-23 academic job market.**   
   
 Contact: linfan [at] stanford [dot] edu
