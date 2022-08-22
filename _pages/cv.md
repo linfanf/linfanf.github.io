@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-(updated August 2022)
+[Link to CV](https://linfanf.github.io/files/Lin_Fan_CV_Aug2022.pdf)(updated August 2022)
