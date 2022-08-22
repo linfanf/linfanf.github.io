@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Updated August 2022
+(updated August 2022)
