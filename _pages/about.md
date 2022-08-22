@@ -14,8 +14,7 @@ Hi! I'm a final-year PhD student in [Management Science and Engineering](https:/
 
 **I am on the 2022-23 academic job market.**   
     
-Research Interests
-======
+My research interests include:
 - Applied probability
   - especially applied to sequential learning and decision-making problems
 - Statistical inference for stochastic processes
