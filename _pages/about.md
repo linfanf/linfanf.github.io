@@ -11,6 +11,8 @@ redirect_from:
 About Me
 ======
 Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm part of Stanford's [Operations Research](https://or.stanford.edu/) group.
+
+**I am on the 2022-23 academic job market.**   
     
 Research Interests
 ======
@@ -22,8 +24,6 @@ Research Interests
   - input uncertainty quantification, gradient estimation
 
 For more information, please visit my [research page](https://linfanf.github.io/research/). Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf).
-     
-**I am on the 2022-23 academic job market.**   
   
 Contact
 ======
