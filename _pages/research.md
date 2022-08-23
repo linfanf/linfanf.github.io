@@ -29,7 +29,7 @@ Efficient Parametric Estimation of Markov Chain Expecations. With Peter Glynn.
 
 Gradient Estimation for Stochastic Networks. With Peter Glynn.
 
-Previously as a Biomechanical Engineer
+Previously, as a Biomechanical Engineer...
 ======
 Sensory-Motor Systems of Copepods Involved in Their Escape from Suction Feeding. [Integrative and Comparative Biology, 2015, Vol. 55 Is. 1](https://academic.oup.com/icb/article/55/1/121/617941). With Jeannette Yen, David Murphy and Donald Webster.
 
