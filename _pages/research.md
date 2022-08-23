@@ -11,9 +11,9 @@ The Fragility of Optimized Bandit Algorithms. [Preprint](https://arxiv.org/abs/2
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
 
-Nonparametric Estimation of Markov Chain Expectations. _In Preparation_. With Peter Glynn.
+Nonparametric Estimation of Markov Chain Expectations. _Preprint available upon request_. With Peter Glynn.
 
-The Typical Behavior of Bandit Algorithms. _In Preparation_. With Peter Glynn.
+The Typical Behavior of Bandit Algorithms. _Preprint available upon request_. With Peter Glynn.
 
 Approximations for Bernoulli Bandits. _In Preparation_. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
