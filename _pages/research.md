@@ -21,7 +21,7 @@ Central Limit Theorems for Estimated Functions at Estimated Points. [Operations 
 
 Change-point Testing for Risk Measures in Time Series. [Preprint](https://arxiv.org/abs/1809.02303). With Peter Glynn and Markus Pelger.
 
-Works in Progress
+Works in progress
 ======
 Subsampling Estimation of Markov Chain Expectations. With Peter Glynn and Markus Pelger.
 
@@ -29,7 +29,7 @@ Efficient Parametric Estimation of Markov Chain Expecations. With Peter Glynn.
 
 Gradient Estimation for Stochastic Networks. With Peter Glynn.
 
-Previously, as a Biomechanical Engineer...
+Previously, as a biomechanical engineer...
 ======
 Sensory-Motor Systems of Copepods Involved in Their Escape from Suction Feeding. [Integrative and Comparative Biology, 2015, Vol. 55 Is. 1](https://academic.oup.com/icb/article/55/1/121/617941). With Jeannette Yen, David Murphy and Donald Webster.
 
