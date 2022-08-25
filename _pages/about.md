@@ -20,7 +20,7 @@ My research interests include:
 - Statistical inference for stochastic processes
   - with applications to service operations and econometric time series
 - Stochastic simulation
-  - input uncertainty quantification, gradient estimation
+  - input uncertainty quantification, sensitivity analysis
 
 For more information, please visit my [research page](https://linfanf.github.io/research/). Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf).
   
