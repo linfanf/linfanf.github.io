@@ -14,9 +14,9 @@ Hi! I'm a final-year PhD student in [Management Science and Engineering](https:/
 
 **I am on the 2022-23 academic job market.**   
     
-[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_August2022.pdf)
+[Curriculum vitae](https://linfanf.github.io/files/LinFan_CV_August2022.pdf)
 
-Summary of my [Research Interests](https://linfanf.github.io/research/):
+Summary of my [research interests](https://linfanf.github.io/research/):
 - Applied probability
   - especially applied to multi-armed bandit problems for extracting new insights and better informing algorithm design
 - Statistical inference for stochastic processes
