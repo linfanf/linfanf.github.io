@@ -20,7 +20,7 @@ My [research interests](https://linfanf.github.io/research/) include:
 - Applied probability
   - especially applied to extract new insights and better inform algorithm design in multi-armed bandit problems
 - Statistical inference for stochastic processes
-  - special focus on Markov chains; applications include service operations and economic time series
+  - special focus on continuous state Markov chains driven by real world observations; applications include service operations and economic time series
 - Stochastic simulation
   - nonparametric input uncertainty quantification; sensitivity analysis; MCMC
   
