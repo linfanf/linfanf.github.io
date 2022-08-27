@@ -18,7 +18,7 @@ Hi! I'm a final-year PhD student in [Management Science and Engineering](https:/
 
 Summary of my [research](https://linfanf.github.io/research/) interests:
 - Applied probability
-  - especially applied to multi-armed bandit problems for extracting new insights and better informing algorithm design
+  - especially applied to multi-armed bandit problems, with the goal of extracting new insights and better informing algorithm design
 - Statistical inference for stochastic processes
   - special focus on continuous state Markov chains driven by real world observations
   - applications include service operations and economic time series
