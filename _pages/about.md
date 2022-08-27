@@ -14,15 +14,15 @@ Hi! I'm a final-year PhD student in [Management Science and Engineering](https:/
 
 **I am on the 2022-23 academic job market.**   
     
-Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf). Below is a summary of my research interests. For more information, please visit my [research page](https://linfanf.github.io/research/).
-    
-My research interests include:
+Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf). 
+
+My [research interests](https://linfanf.github.io/research/) include:
 - Applied probability
-  - especially applied to sequential learning and decision-making problems
+  - especially applied to extract new insights in sequential learning and decision-making problems
 - Statistical inference for stochastic processes
-  - with applications to service operations and econometric time series
+  - special focus on Markov chains; applications include service operations and economic time series
 - Stochastic simulation
-  - input uncertainty quantification, sensitivity analysis
+  - nonparametric input uncertainty quantification; sensitivity analysis; MCMC
   
 Contact
 ======
