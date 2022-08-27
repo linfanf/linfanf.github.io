@@ -18,7 +18,7 @@ Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf).
 
 My [research interests](https://linfanf.github.io/research/) include:
 - Applied probability
-  - especially applied to extract new insights in sequential learning and decision-making problems
+  - especially applied to extract new insights and better inform algorithm design in multi-armed bandit problems
 - Statistical inference for stochastic processes
   - special focus on Markov chains; applications include service operations and economic time series
 - Stochastic simulation
