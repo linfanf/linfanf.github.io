@@ -18,11 +18,14 @@ Here is my [CV](https://linfanf.github.io/files/LinFan_CV_August2022.pdf).
 
 My [research interests](https://linfanf.github.io/research/) include:
 - Applied probability
-  - especially applied to extract new insights and better inform algorithm design in multi-armed bandit problems
+  - especially applied to multi-armed bandit problems for extracting new insights and better informing algorithm design
 - Statistical inference for stochastic processes
-  - special focus on continuous state Markov chains driven by real world observations; applications include service operations and economic time series
+  - special focus on continuous state Markov chains driven by real world observations
+  - applications include service operations and economic time series
 - Stochastic simulation
-  - nonparametric input uncertainty quantification; sensitivity analysis; MCMC
+  - nonparametric input uncertainty quantification
+  - sensitivity analysis
+  - MCMC
   
 Contact
 ======
