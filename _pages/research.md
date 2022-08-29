@@ -5,15 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
-Papers
+Job Market Paper
 ======
-The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. **Job Market Paper**
+The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn.
 
+Other Papers
+======
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
 
-Nonparametric Estimation of Markov Chain Expectations. _(Preprint available upon request)_. With Peter Glynn.
-
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
+
+Nonparametric Estimation of Markov Chain Expectations. _(Preprint available upon request)_. With Peter Glynn.
 
 Approximations for Bernoulli Bandits. _In Preparation_. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
