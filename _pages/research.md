@@ -7,7 +7,7 @@ author_profile: true
 
 Papers
 ======
-The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn
+The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. **Job Market Paper**
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
 
