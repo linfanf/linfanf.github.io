@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I was a Teaching Assistant for the following Stanford courses.
+I was a teaching assistant for the following Stanford courses.
 
 - Stochastic Modeling (MS&E 221)
   - Winter 2019, Spring 2021, Spring 2022
