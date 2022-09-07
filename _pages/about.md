@@ -14,7 +14,7 @@ Hi! I'm a final-year PhD student in [Management Science and Engineering](https:/
 
 **I am on the 2022-23 academic job market.**   
     
-[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_August2022.pdf)
+[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
 
 Summary of my [research](https://linfanf.github.io/research/) interests:
 - Applied probability
