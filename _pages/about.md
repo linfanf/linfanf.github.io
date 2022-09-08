@@ -13,6 +13,8 @@ About Me
 Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
 
 **I am on the 2022-23 academic job market.**   
+
+Email: linfan [at] stanford.edu
     
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
 
@@ -26,10 +28,6 @@ Summary of my [research](https://linfanf.github.io/research/) interests:
   - nonparametric input uncertainty quantification
   - sensitivity analysis
   - MCMC
-  
-Contact
-======
-Email: linfan [at] stanford.edu
 
 Upcoming Talks
 ======
