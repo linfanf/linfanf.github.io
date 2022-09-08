@@ -31,5 +31,20 @@ Contact
 ======
 Email: linfan [at] stanford.edu
 
+Upcoming Talks
+======
+INFORMS 2022 Annual Meeting
+- [George Nicholson Student Paper Competition](https://www.abstractsonline.com/pp8/?__hstc=194041586.cbab4495dc58dad969beaecf7b141606.1652062706946.1662672009071.1662676451862.20&__hssc=194041586.2.1662676451862&__hsfp=3258875815&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/1273), Session SA51
+  - Chairs: Paul Grigas, Jing Dong
+  - Date and Time: Sunday, 10/16, from 8:00 AM - 9:15 AM
+  - Location: M - Santa Fe
+  - Presenting: [The Fragility of Optimized Bandit Algorithms](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf)
+- [Data Mining Track](https://www.abstractsonline.com/pp8/?__hstc=194041586.cbab4495dc58dad969beaecf7b141606.1652062706946.1662672009071.1662676451862.20&__hssc=194041586.2.1662676451862&__hsfp=3258875815&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/862), Session TE05
+  - Chairs: Bora Keskin, Yuexing Li
+  - Tuesday, 10/18, from 5:00 PM - 6:15 PM
+  - Location: CC - Room 105
+  - Presenting: The Fragility of Optimized Bandit Algorithms
+
+
 
 
