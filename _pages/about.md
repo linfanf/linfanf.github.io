@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I'm very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I'm a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
+About Me
+======
+I am a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
 
 **I am on the 2022-23 academic job market.**   
 
