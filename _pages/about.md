@@ -18,7 +18,7 @@ Email: linfan [at] stanford.edu
     
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
 
-My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making problems, as well as general statistical methodology. Here are a few highlights:
+My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making, as well as general statistical methodology. Here are a few highlights:
 - Applied probability
   - especially applied to multi-armed bandit problems, with the goal of extracting new insights and better informing algorithm design
 - Statistical inference for stochastic processes
