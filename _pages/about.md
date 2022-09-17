@@ -24,17 +24,6 @@ For sequential decision-making problems, I am intrested in better understanding 
 
 Another thread of my work is to develop statistical tools to better evaluate the performance of service systems. I am particularly interested in computationally and statistically efficient ways to bring data and inference to models from applied probability that used in operations applications. Examples include general state space Markov chains, as well as other models where the emphasis has traditionally been on analytic insights and tractability.
 
-#Here are a few highlights:
-#- Applied probability
-#  - especially applied to multi-armed bandit problems, with the goal of extracting new insights and better informing algorithm design
-#- Statistical inference for stochastic processes
-#  - special focus on statistically and computationally efficient estimation for general state space Markov chains, with driving noise coming from observed #data
-#  - applications include service operations and economic time series
-#- Stochastic simulation
-#  - nonparametric input uncertainty quantification
-#  - sensitivity analysis
-#  - MCMC
-
 Upcoming Talks
 ======
 INFORMS 2022 Annual Meeting at Indianapolis
