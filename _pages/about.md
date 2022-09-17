@@ -20,9 +20,9 @@ Email: linfan [at] stanford.edu
 
 My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making under uncertainty, as well as statistical methodology for applications from operations research/management. 
 
-For sequential decision-making problems, I am intrested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance, for which we more fully understand operational risks. Along this direction, I have been focused on the distribution, and especially the tail properties, of regret, which provides a new perspective different from that of expected regret in the current literature. 
+For sequential decision-making problems, I am intrested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance, for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the tail properties) of regret, which provides a new perspective different from that of expected regret in the current literature. 
 
-Another thread of my work is to develop statistical tools to better evaluate the performance of systems from operations management. I am particularly interested in computationally and statistically efficient ways to bring data and inference to relevant models from applied probability. Examples include general state space Markov chains, as well as other models where the emphasis has traditionally been on analytic insights and tractability.
+Another thread of my work is to develop statistical tools to better evaluate the performance of systems from operations management. I am particularly interested in computationally and statistically efficient ways to bring data and inference to stochastic models that are relevant for such applications. Examples include general state space Markov chains, as well as other models where the emphasis has traditionally been on analytic insights and tractability.
 
 Upcoming Talks
 ======
