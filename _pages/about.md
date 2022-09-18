@@ -18,7 +18,7 @@ Email: linfan [at] stanford.edu
     
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
 
-My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making under uncertainty, as well as statistical methodology for applications from operations research/management. 
+My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making under uncertainty, as well as statistical methodology for applications from operations research and operations management. 
 
 For sequential decision-making problems, I am interested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance (as measured by regret), for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the distributional tail properties) of regret, which provides new perspectives on algorithm design different from the conventional focus on minimizing regret in expectation.
 
