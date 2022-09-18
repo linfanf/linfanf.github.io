@@ -22,7 +22,7 @@ My [research](https://linfanf.github.io/research/) interests lie broadly in stoc
 
 For sequential decision-making problems, I am intrested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance, for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the tail properties) of regret, which provides a new perspective different from that of expected regret in the current literature.
 
-Another thread of my work is to develop statistical tools to better evaluate the performance of stochastic systems. I am particularly interested in computationally and statistically efficient ways to bring data and inference to stochastic models in areas such as queueing systems. One example is statistical estimation of performance measures for Markov chains, where (as is the case for many other stochastic models) the emphasis has traditionally been on analytic insights and tractability.
+Another thread of my work is to develop statistical tools to better evaluate the performance of stochastic systems. I am particularly interested in computationally and statistically efficient ways to bring data and inference to stochastic models arising in, for example, queueing systems. One example is in nonparametric estimation of performance measures for general state space Markov chains, where (as is the case for many other stochastic models) the emphasis has traditionally been on analytic insights and tractability.
 
 Upcoming Talks
 ======
