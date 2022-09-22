@@ -18,11 +18,11 @@ Email: linfan [at] stanford.edu
     
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
 
-My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making under uncertainty, as well as statistical methodology for stochastic processes arising in operations management. 
+My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on sequential learning and decision-making under uncertainty, as well as statistical inference for stochastic processes arising in operations management. 
 
 For sequential decision-making problems, I am interested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance (as measured by regret), for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the distributional tail properties) of regret, which provides new perspectives on algorithm design different from the conventional focus on minimizing regret in expectation.
 
-Another thread of my work is in developing statistically and computationally efficient tools to better quantify uncertainty in stochastic system performance. I am particularly interested in statistically flexible/robust formulations of stochastic models arising in, for example, queueing systems, where the focus has traditionally been on simpler, analytically tractable formulations. My work here interfaces with other areas such as time series analysis, and more generally, statistical inference for stochastic processes.
+Another thread of my work is in developing statistically and computationally efficient tools to better quantify uncertainty in stochastic system performance. I am particularly interested in statistically flexible/robust formulations of stochastic models arising in, for example, queueing systems, where the focus has traditionally been on simpler, analytically tractable formulations. My work here interfaces with other areas such as time series analysis.
 
 Upcoming Talks
 ======
