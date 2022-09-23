@@ -12,13 +12,11 @@ About Me
 ======
 I am a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
 
-**I am on the 2022-23 academic job market.**   
-
-Email: linfan [at] stanford.edu
-    
+**I am on the 2022-23 academic job market.** 
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
+Email: linfan [at] stanford.edu
 
-My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with emphasis on (1) sequential decision-making under uncertainty, and (2) statistical inference for stochastic processes arising in operations settings. 
+My [research](https://linfanf.github.io/research/) interests lie broadly in stochastic systems, with specializations in (1) sequential decision-making under uncertainty, and (2) statistical inference for stochastic processes arising in operations settings.
 
 For sequential decision-making problems, I am interested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance (as measured by regret), for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the distributional tail properties) of regret, which provides new perspectives on algorithm design different from the conventional focus on minimizing regret in expectation.
 
