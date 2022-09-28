@@ -14,7 +14,7 @@ I am a final-year PhD student in [Management Science and Engineering](https://ms
 
 **I am on the 2022-23 academic job market.** 
 
-My [research](https://linfanf.github.io/research/) interests lie broadly at the interface of machine learning and operations management, with specializations in (1) sequential decision-making under uncertainty, and (2) statistical inference for stochastic processes arising in operations settings.
+My [research](https://linfanf.github.io/research/) interests lie broadly at the interface of machine learning and operations research, with specializations in (1) sequential decision-making under uncertainty, and (2) statistical inference for stochastic processes arising in operations settings.
 
 For sequential decision-making problems, I am interested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance (as measured by regret), for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the distributional tail properties) of regret, which provides new perspectives on algorithm design different from the conventional focus on minimizing regret in expectation.
 
