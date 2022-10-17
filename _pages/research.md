@@ -8,7 +8,7 @@ author_profile: true
 Job Market Paper
 ======
 The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
-- Finalist, George Nicholson Student Paper Competition, 2022
+- 2nd place, George Nicholson Student Paper Competition, 2022
 
 Papers
 ======
