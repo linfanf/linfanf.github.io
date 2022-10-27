@@ -16,7 +16,7 @@ I am a final-year PhD student in [Management Science and Engineering](https://ms
 
 Email: linfan [at] stanford.edu
 
-[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV_Sept2022.pdf)
+[Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV.pdf)
 
 My [research](https://linfanf.github.io/research/) interests lie broadly at the interface of data-driven operations research and machine learning, with specializations in (1) sequential decision-making under uncertainty, and (2) statistical inference for stochastic processes arising in operations settings.
 
