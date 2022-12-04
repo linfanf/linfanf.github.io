@@ -16,7 +16,7 @@ Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
 
-Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1rXSxGt_4PQbUBY1UG8hMWbLQDguVmSNH/view?usp=sharing). With Peter Glynn.
+Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1iNcFSGLVGN3ua5QHFQOlnLTs5i9YkJnM/view?usp=sharing). With Peter Glynn.
 
 Approximations for Bernoulli Bandits. _(in preparation)_. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
