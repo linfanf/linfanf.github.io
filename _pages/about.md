@@ -22,7 +22,7 @@ My [research](https://linfanf.github.io/research/) interests lie broadly at the 
 
 For sequential decision-making problems, I am interested in better understanding the trade-off between optimizing for average performance vs ensuring reliability/safety. My goal here is to design algorithms with good practical performance (as measured by regret), for which we more fully understand operational risks. Along this direction, I have been focused on the distribution (and especially the distributional tail properties) of regret, which provides new perspectives on algorithm design different from the conventional focus on minimizing regret in expectation.
 
-Another thread of my work is in developing statistically and computationally efficient tools to better quantify uncertainty in stochastic system performance. I am particularly interested in statistically flexible/robust formulations of stochastic process models arising in, for example, queueing systems, where the focus has traditionally been on simpler, analytically tractable formulations. My work here interfaces with other areas such as stochastic simulation and time series analysis.
+Another thread of my work is in developing statistically and computationally efficient tools to better quantify uncertainty in stochastic system performance. I am particularly interested in flexible/robust statistical formulations of stochastic process models arising in, for example, queueing systems, where the focus has traditionally been on simpler, analytically tractable formulations. My work here interfaces with other areas such as stochastic simulation and time series analysis.
 
 Recent Talks
 ======
