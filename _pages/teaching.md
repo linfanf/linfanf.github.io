@@ -15,7 +15,7 @@ I was a teaching assistant for the following Stanford courses.
   - taught in Fall 2018, Fall 2019, Fall 2020
 - Stochastic Calculus and Control, MS&E 322
   - PhD-level course
-  - taught in Spring 2019
+  - taught in Spring 2019, Winter 2023
 - Introduction to Stochastic Modeling, MS&E 121
   - core course for undergraduate students
   - taught in Spring 2017
