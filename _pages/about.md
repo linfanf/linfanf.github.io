@@ -12,7 +12,7 @@ About Me
 ======
 I am a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
 
-**Update:** Starting in Fall 2024, I will be an [Assistant Professor of Operations](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) in the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
+**Update:** Starting in Fall 2024, I will be an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) of the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
 Email: linfan [at] stanford.edu
 
