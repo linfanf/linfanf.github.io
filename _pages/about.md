@@ -14,7 +14,7 @@ I am a final-year PhD student in [Management Science and Engineering](https://ms
 
 **Updates** 
 - From 2023-2024, I will be a Postdoctoral Scientist at Amazon [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies).
-- In Fall 2024, I will join the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University as an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx).
+- Starting Fall 2024, I will join the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University as an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx).
 
 Email: linfan [at] stanford.edu
 
