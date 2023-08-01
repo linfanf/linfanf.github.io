@@ -13,8 +13,8 @@ About Me
 I am a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford University, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
 
 **Updates** 
-- I will join the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University as an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx), starting Fall 2024.
 - From 2023-2024, I will be a Postdoctoral Scientist at Amazon [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies).
+- In Fall 2024, I will join the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University as an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx).
 
 Email: linfan [at] stanford.edu
 
