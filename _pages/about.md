@@ -10,12 +10,11 @@ redirect_from:
 
 About Me
 ======
-I'm a Postdoctoral Scientist in the Amazon [Supply Chain Optimization Technologies](https://www.amazon.science/tag/supply-chain-optimization-technologies) group, working under the supervision of Garrett van Ryzin.
+I'm a Postdoctoral Scientist in the [Supply Chain Optimization Technologies](https://www.amazon.science/tag/supply-chain-optimization-technologies) team at Amazon, supervised by Garrett van Ryzin.
 
 I recently completed my PhD in Operations Research within the [Management Science and Engineering](https://msande.stanford.edu/) department at Stanford University, advised by Peter Glynn.
 
-**Updates** 
-- Starting Fall 2024, I will be an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
+Starting Fall 2024, I'll be an Assistant Professor in the [Operations](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) department of the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
 Email: linfan-f [at] amazon.com (remove the hyphen)
 
