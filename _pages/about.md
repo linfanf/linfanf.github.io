@@ -10,13 +10,14 @@ redirect_from:
 
 About Me
 ======
-I am a final-year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford University, where I am very fortunate to be advised by [Peter Glynn](https://web.stanford.edu/~glynn/). I am a member of Stanford [Operations Research](https://or.stanford.edu/) and [Advanced Financial Technologies Lab](https://fintech.stanford.edu/).
+I'm a Postdoctoral Scientist in the Amazon [Supply Chain Optimization Technologies](https://www.amazon.science/tag/supply-chain-optimization-technologies) group, working under the supervision of Garrett van Ryzin.
+
+I recently completed my PhD in Operations Research within the [Management Science and Engineering](https://msande.stanford.edu/) department at Stanford University, advised by Peter Glynn.
 
 **Updates** 
-- From 2023-2024, I will be a Postdoctoral Scientist at Amazon [SCOT](https://www.amazon.science/tag/supply-chain-optimization-technologies).
 - Starting Fall 2024, I will be an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) at the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
-Email: linfan [at] stanford.edu
+Email: linfan-f [at] amazon.com (remove the hyphen)
 
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV.pdf)
 
