@@ -9,7 +9,7 @@ Papers
 ======
 The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
 - 2nd place, George Nicholson Student Paper Competition, 2022
-- Under Revision at Operations Research
+- Under revision, Operations Research
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
 
