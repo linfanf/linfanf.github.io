@@ -9,12 +9,13 @@ Papers
 ======
 The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
 - 2nd place, George Nicholson Student Paper Competition, 2022
+- Under Revision at Operations Research
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
 
-Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1mR3jt6IPz70SvEPb6KCKSAYYf982_H4c/view?usp=sharing). With Peter Glynn.
+Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1IXisJD5fBYFK5azR67LJfGaN5q9_MT7n/view?usp=sharing). With Peter Glynn.
 
 Approximations for Bernoulli Bandits. _(in preparation)_. With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
