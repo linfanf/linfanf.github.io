@@ -40,7 +40,7 @@ INFORMS 2022 Annual Meeting at Indianapolis
   - Location: CC - Room 105
   - Presenting: The Fragility of Optimized Bandit Algorithms
  
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=w9LeFJgsKXgL-Vpy50IIh3qvJQwi4hB2JzP6qGkt4H0&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1bwjf"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=w9LeFJgsKXgL-Vpy50IIh3qvJQwi4hB2JzP6qGkt4H0&cl=ffffff" /></a>
 
 
 
