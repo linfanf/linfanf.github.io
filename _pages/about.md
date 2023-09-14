@@ -39,8 +39,6 @@ INFORMS 2022 Annual Meeting at Indianapolis
   - Date and time: Tuesday, October 18, 5:00 PM - 6:15 PM
   - Location: CC - Room 105
   - Presenting: The Fragility of Optimized Bandit Algorithms
- 
-<a href='https://clustrmaps.com/site/1bwjf'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=w9LeFJgsKXgL-Vpy50IIh3qvJQwi4hB2JzP6qGkt4H0'/></a>
 
 
 
