@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ======
-I'm a Postdoctoral Scientist in [Supply Chain Optimization Technologies](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon, supervised by Garrett van Ryzin.
+I'm a Postdoctoral Scientist in [Supply Chain Optimization Technologies](https://www.amazon.science/tag/supply-chain-optimization-technologies) at Amazon, working under the supervision of Garrett van Ryzin.
 
-I recently completed my PhD in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford University, advised by Peter Glynn.
+I recently completed my PhD in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford University, where I was fortunate to be advised by Peter Glynn.
 
 Starting Fall 2024, I'll be an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) of the [Kellogg School of Management](https://www.kellogg.northwestern.edu/) at Northwestern University.
 
