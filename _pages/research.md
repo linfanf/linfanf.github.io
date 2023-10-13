@@ -11,7 +11,7 @@ The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.
 - 2nd place, George Nicholson Student Paper Competition, 2022
 - Under revision, Operations Research
 
-Diffusion Approximations for Thompson Sampling. [Preprint](https://arxiv.org/abs/2105.09232). With Peter Glynn.
+Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter Glynn.
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
 
