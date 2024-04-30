@@ -27,7 +27,9 @@ Works in progress
 ======
 Subsample-based Estimation of Markov Chain Expectations. With Peter Glynn.
 
-Efficient Parametric Estimation of Markov Chain Expecations. With Peter Glynn.
+Smoothed Estimation of Markov Chain Expectations. With Peter Glynn.
+
+Semiparametric Estimation of Markov Chain Expecations. With Peter Glynn.
 
 Gradient Estimation for Stochastic Networks. With Peter Glynn.
 
