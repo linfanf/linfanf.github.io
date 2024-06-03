@@ -16,7 +16,7 @@ I recently completed my PhD in [Management Science and Engineering](https://msan
 
 Starting Fall 2024, I'll be an Assistant Professor in the [Operations Department](https://www.kellogg.northwestern.edu/faculty/academics/operations.aspx) of the Kellogg School of Management at Northwestern University.
 
-Email: linfanf [at] amazon.com
+Email: lin.fan [at] kellogg.northwestern.edu
 
 [Curriculum Vitae](https://linfanf.github.io/files/LinFan_CV.pdf)
 
