@@ -21,7 +21,7 @@ Approximations for Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter Glynn 
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
-Change-point Testing for Risk Measures in Time Series. [Preprint](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Peter Glynn and Markus Pelger.
+Change-point Testing for Risk Measures in Time Series. [Preprint](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Junting Duan, Peter Glynn and Markus Pelger.
 
 Works in progress
 ======
