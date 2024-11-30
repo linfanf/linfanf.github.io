@@ -17,6 +17,8 @@ The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/
 
 Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter Glynn.
 
+Robustness Benefits of Structured Bandits. [Preprint](). With Peter Glynn.
+
 Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter Glynn and J. Michael Harrison.
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
