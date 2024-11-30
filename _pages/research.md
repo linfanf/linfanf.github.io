@@ -11,6 +11,8 @@ The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.
 - 2nd place, George Nicholson Student Paper Competition, 2022
 - To appear in Operations Research
 
+Statistical Inference for Markov Chains with Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter Glynn.
+
 Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter Glynn.
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
@@ -18,8 +20,6 @@ The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/
 Robustness Benefits of Structured Bandits. [Preprint](). With Peter Glynn.
 
 Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter Glynn and J. Michael Harrison.
-
-Nonparametric Estimation of Markov Chain Expectations. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter Glynn.
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
