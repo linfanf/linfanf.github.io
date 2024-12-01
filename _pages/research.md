@@ -7,9 +7,8 @@ author_profile: true
 
 Papers
 ======
-The Fragility of Optimized Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
+The Fragility of Optimized Bandit Algorithms. [Operations Research, to appear](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
 - 2nd place, George Nicholson Student Paper Competition, 2022
-- To appear in Operations Research
 
 Statistical Inference for Markov Chains with Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter Glynn.
 
