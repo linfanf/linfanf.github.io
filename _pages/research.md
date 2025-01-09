@@ -7,32 +7,32 @@ author_profile: true
 
 Papers
 ======
-The Fragility of Optimized Bandit Algorithms. [Operations Research (to appear)](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter Glynn. 
+The Fragility of Optimized Bandit Algorithms. [Operations Research, 2024](https://linfanf.github.io/files/The_fragility_of_optimized_bandit_algorithms.pdf). With Peter W. Glynn. 
 - 2nd place, George Nicholson Student Paper Competition, 2022
 
-Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020, Vol. 68 No. 5](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
+Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter W. Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
-Statistical Inference for Markov Chains with Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter Glynn.
+Statistical Inference for Markov Chains with Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter W. Glynn.
 
-Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter Glynn.
+Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter W. Glynn.
 
-The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter Glynn.
+The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter W. Glynn.
 
-Robustness Benefits of Structured Bandits. [Preprint](). With Peter Glynn.
+Robustness Benefits of Structured Bandits. [Preprint](). With Peter W. Glynn.
 
-Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter Glynn and J. Michael Harrison.
+Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter W. Glynn and J. Michael Harrison.
 
-Change-point Testing for Risk Measures in Time Series. [Preprint](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Junting Duan, Peter Glynn and Markus Pelger.
+Change-point Testing for Risk Measures in Time Series. [Preprint](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Junting Duan, Peter W. Glynn and Markus Pelger.
 
 Works in progress
 ======
-Subsample-based Estimation of Markov Chain Expectations. With Peter Glynn.
+Subsample-based Estimation for Markov Chains with Structure. With Peter W. Glynn.
 
-Smoothed Estimation of Markov Chain Expectations. With Peter Glynn.
+Smoothed Estimation for Markov Chains with Structure. With Peter W. Glynn.
 
-Semiparametric Estimation of Markov Chain Expecations. With Peter Glynn.
+Semiparametric Estimation for Markov Chains with Structure. With Peter W. Glynn.
 
-Gradient Estimation for Stochastic Networks. With Peter Glynn.
+Gradient Estimation for Stochastic Networks. With Peter W. Glynn.
 
 Previously, as a bio-mechanical engineer...
 ======
