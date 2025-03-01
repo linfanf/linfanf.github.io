@@ -12,7 +12,7 @@ The Fragility of Optimized Bandit Algorithms. [Operations Research, 2024](https:
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter W. Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
-Statistical Inference for Markov Chains with Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter W. Glynn.
+Statistical Inference for Markov Chains with Known Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter W. Glynn.
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter W. Glynn.
 
@@ -26,11 +26,11 @@ Change-point Testing for Risk Measures in Time Series. [Preprint](https://linfan
 
 Works in progress
 ======
-Subsample-based Estimation for Markov Chains with Structure. With Peter W. Glynn.
+Subsample-based Inference for Markov Chains with Known Structure. With Peter W. Glynn.
 
-Smoothed Estimation for Markov Chains with Structure. With Peter W. Glynn.
+Smoothed Estimation for Markov Chains with Known Structure. With Peter W. Glynn.
 
-Semiparametric Estimation for Markov Chains with Structure. With Peter W. Glynn.
+Semiparametric Inference for Markov Chains with Known Structure. With Peter W. Glynn.
 
 Gradient Estimation for Stochastic Networks. With Peter W. Glynn.
 
