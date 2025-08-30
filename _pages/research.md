@@ -14,7 +14,7 @@ Central Limit Theorems for Estimated Functions at Estimated Points. [Operations 
 
 Statistical Inference for Markov Chains with Known Structure. [Preprint](https://drive.google.com/file/d/1ltb93yROkNLT1OOaqdBXMkDgXQ9-Yt1N/view?usp=sharing). With Peter W. Glynn.
 
-Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter W. Glynn.
+Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_Approximations_for_Thompson_Sampling_in_the_Small_Gap_Regime.pdf). With Peter W. Glynn.
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter W. Glynn.
 
