@@ -12,7 +12,7 @@ The Fragility of Optimized Bandit Algorithms. [Operations Research, 2024](https:
 
 Central Limit Theorems for Estimated Functions at Estimated Points. [Operations Research, 2020](https://pubsonline.informs.org/doi/10.1287/opre.2019.1922). With Peter W. Glynn, Michael Fu, Jian-Qiang Hu and Yijie Peng.
 
-Statistical Inference for Markov Chains with Known Structure. [Preprint](https://drive.google.com/file/d/1o2xx0jxawxx69mLTfg5ifQuowbc3zURd/view?usp=sharing). With Peter W. Glynn.
+Statistical Inference for Markov Chains with Known Structure. [Preprint](https://drive.google.com/file/d/1ltb93yROkNLT1OOaqdBXMkDgXQ9-Yt1N/view?usp=sharing). With Peter W. Glynn.
 
 Diffusion Approximations for Thompson Sampling. [Preprint](https://linfanf.github.io/files/Diffusion_approximations_for_Thompson_sampling.pdf). With Peter W. Glynn.
 
