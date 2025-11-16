@@ -26,13 +26,11 @@ Change-point Testing for Risk Measures in Time Series. [Journal of Financial Eco
 
 Works in progress
 ======
-Subsample-based Inference for Markov Chains with Known Structure. With Peter W. Glynn.
+Subsample-based Inference for Markov Chains with Known Structure.
 
-Smoothed Estimation for Markov Chains with Known Structure. With Peter W. Glynn.
+Smoothed Estimation for Markov Chains with Known Structure.
 
 Semiparametric Inference for Markov Chains with Known Structure. With Peter W. Glynn.
-
-Gradient Estimation for Stochastic Networks. With Peter W. Glynn.
 
 Previously, as a bio-mechanical engineer...
 ======
