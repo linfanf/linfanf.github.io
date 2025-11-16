@@ -22,7 +22,7 @@ Robustness Benefits of Structured Bandits. [Preprint]().
 
 Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter W. Glynn and J. Michael Harrison.
 
-Change-point Testing for Risk Measures in Time Series. [Accepted to Journal of Financial Econometrics, 2025](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Junting Duan, Peter W. Glynn and Markus Pelger.
+Change-point Testing for Risk Measures in Time Series. [Journal of Financial Econometrics, 2026](https://linfanf.github.io/files/Change_point_testing_for_risk_measures_in_time_series.pdf). With Junting Duan, Peter W. Glynn and Markus Pelger.
 
 Works in progress
 ======
