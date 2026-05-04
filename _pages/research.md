@@ -18,7 +18,7 @@ Diffusion Approximations for Thompson Sampling in the Small Gap Regime. [Preprin
 
 The Typical Behavior of Bandit Algorithms. [Preprint](https://linfanf.github.io/files/The_typical_behavior_of_bandit_algorithms.pdf). With Peter W. Glynn.
 
-Robustness Benefits of Structured Bandits. [Preprint]().
+Regret Tails in Structured Bandits. [Preprint]().
 
 Poisson Limits of Bernoulli Bandits. [Preprint](). With Wenjia Ba, Peter W. Glynn and J. Michael Harrison.
 
